@@ -1,0 +1,2 @@
+# tariffs
+Tariffs page
